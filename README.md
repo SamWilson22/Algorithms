@@ -1,4 +1,7 @@
-# Algorithms & data structures project
+#forked from akzare/Algorithms so I can add my own notes and such
+
+
+#Algorithms & data structures project
 
 This repository presents the Python and C++ code implementation of the provided Algorithms and data structures from William Fiset at:
 https://github.com/williamfiset/Algorithms
